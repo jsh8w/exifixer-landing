@@ -32,31 +32,31 @@ youtube_username                          :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-# features                                  :
-#
-#   - title                                 : Football iOS 14 Widget
-#     description                           : View football data right on your iPhone home screen.
-#     fontawesome_icon_name                 : futbol
-#
-#   - title                                 : League Standings
-#     description                           : View the league tables for your favourite leagues.
-#     fontawesome_icon_name                 : table
-#
-#   - title                                 : Fixtures and Results
-#     description                           : View fixtures and results for your favourite teams.
-#     fontawesome_icon_name                 : futbol
-#
-#   - title                                 : 12 Top Leagues
-#     description                           : Choose teams from 12 of the world's top leagues/competitions.
-#     fontawesome_icon_name                 : table
-#
-#   - title                                 : Beautiful iOS 14 Widget
-#     description                           : Designed for specifically for iOS 14 Devices and the Apple WidgetKit SDK.
-#     fontawesome_icon_name                 : mobile
-#
-#   - title                                 : Customisation
-#     description                           : Customise the style of widgets by selecting between 3 sizes and 3 themes.
-#     fontawesome_icon_name                 : palette
+features                                  :
+
+  - title                                 : View iPhone Photo Metadata
+    description                           : View EXIF Metadata for all your iPhone photos.
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Fix and Edit All Metadata
+    description                           : View fixtures and results for your favourite teams.
+    fontawesome_icon_name                 : hammer
+
+  - title                                 : 50+ Metadata Tags
+    description                           : Over 50 Metadata Tags to view and edit.
+    fontawesome_icon_name                 : tags
+
+  - title                                 : Intelligent Location Suggestions
+    description                           : EXIFixer intelligently suggests locations for photos with missing GPS data.
+    fontawesome_icon_name                 : brain
+
+  - title                                 : Map Locations
+    description                           : View GPS locations on a beautiful designed map.
+    fontawesome_icon_name                 : map
+
+  - title                                 : Beautiful App Design
+    description                           : The clean, simple design makes the app intuitive to use.
+    fontawesome_icon_name                 : palette
 
 
 
